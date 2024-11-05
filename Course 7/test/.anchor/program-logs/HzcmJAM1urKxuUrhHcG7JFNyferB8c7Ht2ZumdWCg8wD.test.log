@@ -1,0 +1,10 @@
+Streaming transaction logs mentioning HzcmJAM1urKxuUrhHcG7JFNyferB8c7Ht2ZumdWCg8wD. Confirmed commitment
+Transaction executed in slot 2:
+  Signature: 3MicHPGjieoepPMAvEJcMRwz2psHPCcWGG8BcvcC1gQnLXEB2rAGxjMGphRFFDuwVJ8re7XsEkmnr7Vg4TfTdL2b
+  Status: Ok
+  Log Messages:
+    Program HzcmJAM1urKxuUrhHcG7JFNyferB8c7Ht2ZumdWCg8wD invoke [1]
+    Program log: Instruction: Initialize
+    Program log: Greetings from: HzcmJAM1urKxuUrhHcG7JFNyferB8c7Ht2ZumdWCg8wD
+    Program HzcmJAM1urKxuUrhHcG7JFNyferB8c7Ht2ZumdWCg8wD consumed 11945 of 200000 compute units
+    Program HzcmJAM1urKxuUrhHcG7JFNyferB8c7Ht2ZumdWCg8wD success
